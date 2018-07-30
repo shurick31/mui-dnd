@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
 import { Row, Col, Card, CardTitle} from 'react-materialize';
-const ALLOWED_DROP = "move";
-const DRAG_DROP_CONTENT_TYPE = "custom_container_type";
-const ALLOWED_DROP_EFFECT = "move";
-
 
 const MyCard = function(props) {
 
